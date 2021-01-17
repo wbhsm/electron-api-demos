@@ -52,3 +52,4 @@ $ npm run dev
 * Japanese translation of this app is available at [`LeeDDHH/electron-api-demos-ja`](https://github.com/LeeDDHH/electron-api-demos-ja).
 
 Note: these versions are maintained by outside contributors and may not always be in sync with this version.
+#1
